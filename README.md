@@ -34,7 +34,7 @@ Architecture/Philosophies
 * Mobile-first
 
 
-Templating System
+Template System
 =================
 
 * PHP-based
